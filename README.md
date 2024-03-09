@@ -1,2 +1,7 @@
 # Clone-website
-used Html CSS
+Used Basic HTML CSS
+<br>
+Still learning new things
+<br>
+This is my First project on devlopment
+
